@@ -1,0 +1,1 @@
+This repo contains various microcontroller project files.  Feel free to use and/or make suggestions for new projects.  I only use 8051 based microcontrollers. The ATmega and ATtiny series are very fun to use.  However, if you really would like something for some other processor, I'm sure I could write some code for you.
